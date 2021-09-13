@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a.ital" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="483" y="474" type="line"/>
+      <point x="190" y="514" type="line"/>
+      <point x="77" y="335" type="line"/>
+      <point x="177" y="1" type="line"/>
+      <point x="413" y="146" type="line"/>
+      <point x="406" y="-5" type="line"/>
+      <point x="512" y="8" type="line"/>
+      <point x="568" y="496" type="line"/>
+      <point x="477" y="506" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="374" type="line"/>
+      <point x="416" y="236" type="line"/>
+      <point x="296" y="165" type="line"/>
+      <point x="221" y="374" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/09/13 14:08:35</string>
+    </dict>
+  </lib>
+</glyph>

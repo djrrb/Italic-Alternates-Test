@@ -1,0 +1,11 @@
+feature ss01 {
+sub a by a.ital;
+} ss01;
+
+feature ss02 {
+sub a.ital by a;
+} ss02;
+
+feature ss03 {
+sub a.ital by a.roman;
+} ss03;

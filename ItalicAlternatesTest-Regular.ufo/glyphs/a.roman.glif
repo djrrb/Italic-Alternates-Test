@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="a.roman" format="2">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="74" y="454" type="line"/>
+      <point x="120" y="394" type="line"/>
+      <point x="317" y="481" type="line"/>
+      <point x="410" y="366" type="line"/>
+      <point x="410" y="273" type="line"/>
+      <point x="90" y="229" type="line"/>
+      <point x="97" y="55" type="line"/>
+      <point x="189" y="-6" type="line"/>
+      <point x="316" y="34" type="line"/>
+      <point x="403" y="73" type="line"/>
+      <point x="417" y="-3" type="line"/>
+      <point x="532" y="-1" type="line"/>
+      <point x="519" y="469" type="line"/>
+      <point x="394" y="513" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2021/09/13 14:32:29</string>
+    </dict>
+  </lib>
+</glyph>
