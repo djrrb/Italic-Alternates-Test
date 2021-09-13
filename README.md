@@ -20,7 +20,9 @@ When I try to apply the `ss02` alternate to an individual glyph, nothing happens
 
 I am not able to apply stylistic sets to a selection. I would expect to see the stylistic sets listed here and to be able to check them to apply them to a selection.
 
-![apply-stylistic-set-via-tooltip-does-not-work.png](apply-stylistic-set-via-tooltip-does-not-work.png)
+
+
+![apply-stylistic-set-via-tooltip-does-not-work.png](screengrabs/apply-stylistic-set-via-tooltip-does-not-work.png)
 
 ![apply-stylistic-set-via-character-palette-does-not-work.mov](screengrabs/apply-stylistic-set-via-character-palette-does-not-work.mov)
 
